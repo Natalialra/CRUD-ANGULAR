@@ -1,3 +1,17 @@
 table {
     width: 100%;
 }
+
+.edit {
+    margin-right: 20px;
+}
+
+.edit > i {
+    color: #d9cd26;
+    cursor: pointer;
+}
+
+.delete > i {
+    color: #e35e6b;
+    cursor: pointer;
+}
